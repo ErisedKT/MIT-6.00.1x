@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 11 21:02:43 2018
-
-@author: drjayantisinha
-"""
-
 x = 27
 epsilon = 0.01
 numGuesses = 0

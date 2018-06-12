@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 11 21:19:57 2018
-
-@author: drjayantisinha
-"""
-
 x = 27
 low = 0.0
 high = x

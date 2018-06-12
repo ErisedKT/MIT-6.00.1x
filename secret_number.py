@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 11 21:51:40 2018
-
-@author: drjayantisinha
-"""
-
 low = 0
 high = 100
 

@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 13 03:14:10 2018
-
-@author: drjayantisinha
-"""
-
 epsilon = 0.01
 y = 54.0
 guess = y/2.0

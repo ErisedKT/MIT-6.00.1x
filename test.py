@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 11 20:42:17 2018
-
-@author: drjayantisinha
-"""
-
 x = 25
 epsilon = 0.01
 step = 0.1
