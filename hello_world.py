@@ -3,7 +3,7 @@
 """
 Created on Sat May 19 13:54:56 2018
 
-@author: drjayantisinha
+@author: sanya_verma
 """
 print("Hello world")
 
